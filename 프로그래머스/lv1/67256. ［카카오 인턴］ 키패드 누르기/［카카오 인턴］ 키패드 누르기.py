@@ -39,4 +39,3 @@ def solution(numbers, hand):
     return answer
 
 
-## LRLLLR
